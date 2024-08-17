@@ -1,0 +1,17 @@
+[
+  {
+    "id": "1723915500780",
+    "titulo": "O Hobbit",
+    "autor": "J.R.R. Tolkien",
+    "anoPublicacao": 1937,
+    "genero": "Aventura",
+    "emprestado": false,
+    "historicoEmprestimos": [
+      {
+        "nomeUsuario": "João Silva",
+        "dataEmprestimo": "2024-08-17T17:25:00.838Z",
+        "dataDevolucao": "2024-08-17T17:25:00.856Z"
+      }
+    ]
+  }
+]
